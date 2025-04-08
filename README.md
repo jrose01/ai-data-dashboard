@@ -1,7 +1,6 @@
 # Project Template for Data Science Projects and AI Applications
 
-This particular project builds an AI powered data analysis application using Python, LangChain, OpenAI, and Streamlit.  It is also set up to be a template for your own projects. The templated was generated from 
-datalumina/datalumina-project-template github repository.
+This particular project builds an AI powered data analysis application that creats a sales data dashboard using Python, LangChain, OpenAI, and Streamlit.  It is also set up to be a template for your own projects. The templated was generated from datalumina/datalumina-project-template github repository.
 
 The project is organized to follow best practices in data science and machine learning, including clear separation of raw data, processed data, and model artifacts. It also includes a `.gitignore` file to help manage version control effectively.
 
